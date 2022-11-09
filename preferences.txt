@@ -1,0 +1,5 @@
+ Favorite_films: rain man ;
+Favorite_series: Breaking_Bad;
+Favorite_eat: draniki;
+Favorite_season: summer;
+I_want_to_visit_contry: Finland.

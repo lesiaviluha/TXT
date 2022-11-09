@@ -1,0 +1,3 @@
+Skil_namber_1: to create bag report;
+skil_namber_2: to write code on Pyton and JavaScript;
+Skil_namber_3: to work in GitHub .
