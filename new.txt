@@ -1,0 +1,6 @@
+
+	First name: Вилюха;
+	Last name: Алеся;
+	Age:27;
+	Count pets: 1;
+	Salary: 500
