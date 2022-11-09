@@ -1,1 +1,10 @@
-
+ID :1;
+Summary: error message not displayed when field email empty;
+Description: According to the requirements, when field email empty then displayed error message;
+Environment: Win10; 
+Steps to reproduce: 1) Open website; 2) Fild email leave empty 3) enter the password 4) press the button Enter;
+Actual result: The error message does not appear after clicking. Page websaites not updated ;
+Expected result: A massege appears: Enter email;
+Severity: Major;
+Priority" : Medium;
+Status: Open.
